@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stonvery.buyroto.com/stonvery.txt
